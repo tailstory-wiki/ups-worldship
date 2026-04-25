@@ -8,6 +8,10 @@ on:
       - "docs/**"
       - ".github/workflows/publish.yaml"
 
+permissions:
+  contents: read
+  packages: read
+
 jobs:
   build-and-publish:
     uses: tailstory-wiki/builder/.github/workflows/build.yaml@main
