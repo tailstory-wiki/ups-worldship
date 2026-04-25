@@ -1,4 +1,5 @@
 ---
+layout: partial.njk
 title: Troubleshooting
 description: Troubleshooting common issues with World Ship
 ---
