@@ -1,5 +1,8 @@
+tabs:
+  - title: Troubleshooting
+    page: troubleshooting
 entries:
-  - title: Overview
+  - title: UPS WorldShip documentation
     page: index
   - title: Troubleshooting
     page: troubleshooting
